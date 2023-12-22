@@ -1,0 +1,189 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "HalfPyramidPattern",
+      "request": "launch",
+      "mainClass": "HalfPyramidPattern",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "InvertedStarPattern",
+      "request": "launch",
+      "mainClass": "InvertedStarPattern",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "NestedLoopPattern",
+      "request": "launch",
+      "mainClass": "NestedLoopPattern",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "FactorialCalculator",
+      "request": "launch",
+      "mainClass": "FactorialCalculator",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "Exercise5",
+      "request": "launch",
+      "mainClass": "Exercise5",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNum",
+      "request": "launch",
+      "mainClass": "PrimeNum",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "ContinueStatement",
+      "request": "launch",
+      "mainClass": "ContinueStatement",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "BreakStatement",
+      "request": "launch",
+      "mainClass": "BreakStatement",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "DoWhileLoop",
+      "request": "launch",
+      "mainClass": "DoWhileLoop",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "PrintReverse",
+      "request": "launch",
+      "mainClass": "PrintReverse",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "PrintSquare",
+      "request": "launch",
+      "mainClass": "PrintSquare",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "ForLoop",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "PrintSumN",
+      "request": "launch",
+      "mainClass": "PrintSumN",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "PrintNumN",
+      "request": "launch",
+      "mainClass": "PrintNumN",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "WhileLoop",
+      "request": "launch",
+      "mainClass": "WhileLoop",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "SwitchStatements",
+      "request": "launch",
+      "mainClass": "SwitchStatements",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "FailorPass",
+      "request": "launch",
+      "mainClass": "FailorPass",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "TernaryOperator",
+      "request": "launch",
+      "mainClass": "TernaryOperator",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "ElseIfStatements",
+      "request": "launch",
+      "mainClass": "ElseIfStatements",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "IfElse",
+      "request": "launch",
+      "mainClass": "IfElse",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "Exercise2",
+      "request": "launch",
+      "mainClass": "Exercise2",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "AssignmentOperators",
+      "request": "launch",
+      "mainClass": "AssignmentOperators",
+      "projectName": "Java Programming Language_344401c4"
+    },
+    {
+      "type": "java",
+      "name": "JavaBasics2",
+      "request": "launch",
+      "mainClass": "JavaBasics2",
+      "projectName": "video1_266695c1"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "JavaBasics",
+      "request": "launch",
+      "mainClass": "JavaBasics",
+      "projectName": "video1_266695c1"
+    }
+  ]
+}
